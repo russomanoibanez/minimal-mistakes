@@ -1,13 +1,10 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "Early Exercise of Options"
 categories:
-  - Markup
+  - Option Pricing
 tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+  - Option Pricing
+  - Binomial Model
 ---
 
 A variety of common markup showing how the theme styles them.
