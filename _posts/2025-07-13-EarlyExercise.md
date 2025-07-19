@@ -9,7 +9,7 @@ tags:
 
 ## Introduction
 
-Em Merton (1973) [^1], conclui-se que, exceto nos momentos imediatamente anteriores ao vencimento ou ao pagamento de dividendos, não é racional exercer uma opção de compra antecipadamente.
+Em Merton (1973) [^RationalOptionPricingMerton], conclui-se que, exceto nos momentos imediatamente anteriores ao vencimento ou ao pagamento de dividendos, não é racional exercer uma opção de compra antecipadamente.
 O objetivo deste trabalho é aprofundar essa conclusão e estendê-la ao caso das opções de venda. Adicionalmente, busca-se compreender em quais cenários o exercício antecipado pode eventualmente ser justificável.
 
 ## Revisão da Literatura
@@ -42,7 +42,7 @@ No primeiro caso.
 
 
 **References**
-[^1]: Merton, Robert C. “Theory of Rational Option Pricing.” The Bell Journal of Economics and Management Science 4, no. 1 (1973): 141–83. https://doi.org/10.2307/3003143.
+[^RationalOptionPricingMerton]: Merton, Robert C. “Theory of Rational Option Pricing.” The Bell Journal of Economics and Management Science 4, no. 1 (1973): 141–83. https://doi.org/10.2307/3003143.
 
 ###### Header six
 
