@@ -12,6 +12,13 @@ tags:
 Em Merton (1973) [^RationalOptionPricingMerton], conclui-se que, exceto nos momentos imediatamente anteriores ao vencimento ou ao pagamento de dividendos, não é racional exercer uma opção de compra antecipadamente.
 O objetivo deste trabalho é aprofundar essa conclusão e estendê-la ao caso das opções de venda. Adicionalmente, busca-se compreender em quais cenários o exercício antecipado pode eventualmente ser justificável.
 
+test1[^1]
+[^1]: Test 1
+
+{:footnotes}
+* 
+
+
 ## Revisão da Literatura
 
 ### Options, Futures and Other Derivatives - John Hull 
