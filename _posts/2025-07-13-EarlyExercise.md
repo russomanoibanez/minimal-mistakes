@@ -20,6 +20,10 @@ Afim de se criar a intuição sobre o problema, utiliza-se um exemplo encontrado
 é importante apenas que a ação não pague dividendos.
 
 Agora, iremos dividir o cenário de acordo com a intenção do investidor:
+$ 1=2 $
+
+$$ 1=2 $$
+
 
 \begin{itemize}
 \item O Investidor acredita que a ação está supervalorizada e não deseja manter a ação em sua carteira;
