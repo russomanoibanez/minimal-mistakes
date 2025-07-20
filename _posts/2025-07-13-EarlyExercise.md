@@ -37,7 +37,7 @@ No primeiro caso.
 ###### Header six
 
 ## References
-<a id="1">[1]</a> 
+<a id="Merton_TheoryRationalOptionPricing">[1]</a> 
 Merton, Robert C. “Theory of Rational Option Pricing.”
 The Bell Journal of Economics and Management Science 4, no. 1 (1973): 141–83.
 https://doi.org/10.2307/3003143.
