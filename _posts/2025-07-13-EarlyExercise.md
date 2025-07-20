@@ -41,7 +41,7 @@ investidor receberá a rentabilidade da ação acrescida da taxa de juros sob o 
 ###### Header six
 
 ## References
-<a id="Merton_TheoryRationalOptionPricing">[1]</a> 
+<a id="1">[Theory of Rational Option Pricing]</a> 
 Merton, Robert C. “Theory of Rational Option Pricing.”
 The Bell Journal of Economics and Management Science 4, no. 1 (1973): 141–83.
 https://doi.org/10.2307/3003143.Merton_TheoryRationalOptionPricing
